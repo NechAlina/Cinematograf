@@ -1,6 +1,6 @@
 # Movie Information System
 
-This is a movie information system that allows users to retrieve information about films, including details such as the film name, director, type, premiere date, ticket price, screening time, and number of tickets sold. It also provides a feature to display the top-selling films based on ticket sales.
+This is a movie information system that allows users to retrieve information about films, including details such as the film name, director, type, premiere date, ticket price, screening time, and number of tickets sold from a Microsoft Access database. It also provides a feature to display the top-selling films based on ticket sales.
 
 ## Features
 
